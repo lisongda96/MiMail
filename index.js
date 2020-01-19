@@ -6,3 +6,4 @@ var c = 5;
 var d = 22;
 
 var f = 44;
+var e = 33;
