@@ -1,11 +1,10 @@
 <!--  -->
 <template>
-  <div>header</div>
+  <div>orderfooter</div>
 </template>
 
 <script>
 export default {
-  name: "nav-header",
   data() {
     return {};
   },
